@@ -8,6 +8,12 @@
 
 1.![Image alt](https://github.com/vladislst/hw-03.md/raw/main/img/zabbix2.jpg)
 
-### Задание 2-3
+### Задание 3
 
 1.![Image alt](https://github.com/vladislst/hw-03.md/raw/main/img/zabbix3.jpg)
+2.![Image alt](https://github.com/vladislst/hw-03.md/raw/main/img/zabbix2.jpg)
+
+
+### Задание 4
+
+1.![Image alt](https://github.com/vladislst/hw-03.md/raw/main/img/zabbix4.jpg)
